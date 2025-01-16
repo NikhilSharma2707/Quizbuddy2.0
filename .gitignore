@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+pyvenv.cfg
+
+# Ignore environment files
+.env
+
+# Ignore system-specific files
+*.pyc
+__pycache__/
+.DS_Store
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore user settings for IDEs
+.idea/
+.vscode/
+
+.envLib/
+
+Lib/
