@@ -14,6 +14,9 @@ Currently, we are working on fine-tuning LLaMA, a state-of-the-art language mode
 
 #### The project is also part of the SRM Humanoid Project
 
+![Pipeline](images/pipeline.jpg)
+
+
 [![Watch the video](http://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
 
 
