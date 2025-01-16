@@ -9,6 +9,11 @@ QuizBuddy is an innovative quiz generator platform powered by machine learning, 
 #### Real-Time Feedback: Immediate insights to help users learn and improve.
 #### Scalability: Built to handle diverse user bases and large datasets.
 
+## Current Work
+Currently, we are working on fine-tuning LLaMA, a state-of-the-art language model, to generate questions specifically related to Data Structures and Algorithms (DSA). This enhancement will enable the platform to provide a more targeted and advanced learning experience for users focusing on DSA topics.
+
+#### The project is also part of the SRM Humanoid Project
+
 [![Watch the video](http://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
 
 
