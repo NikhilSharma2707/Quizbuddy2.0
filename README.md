@@ -15,10 +15,13 @@ Currently, we are working on fine-tuning LLaMA, a state-of-the-art language mode
 #### The project is also part of the SRM Humanoid Project
 
 ![Pipeline](images/pipeline.jpg)
+### The Website 
 ![Frontend](images/Quizbuddyfrontend.jpg)
+### The Working T5 Model for Question Generation
+
 ![Working](images/Quizbuddyworking.jpg)
 
-## Watch The Video To Understand The Workinh of QuizBuddy 
+## Watch The Video To Understand The Working of QuizBuddy 
 
 [![Watch the video](images/Quizbuddyfrontend.jpg)](https://youtu.be/qY_W5zz7Afc?si=d665jhrCYwaX81Mw)
 
