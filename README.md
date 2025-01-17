@@ -18,7 +18,7 @@ Currently, we are working on fine-tuning LLaMA, a state-of-the-art language mode
 ![Frontend](images/Quizbuddyfrontend.jpg)
 ![Working](images/Quizbuddyworking.jpg)
 
-[![Watch the video](http://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+[![Watch the video](https://www.youtube.com/watch?v=qY_W5zz7Afc&t=81s)
 
 
 ## Authors
